@@ -1,0 +1,12 @@
+# Sweet Cakes Bakery
+
+> Handcrafted cakes for every occasion
+
+## About
+Sweet Cakes Bakery has been serving Austin with handcrafted cakes, pastries, and bread since 2019. Every item is made from scratch using locally sourced ingredients.
+
+## Contact
+- Phone: (512) 555-1234
+- Email: hello@sweetcakes.nephew.app
+- Address: 123 Main St, Austin, TX 78701
+- Hours: Mon-Sat 7am-6pm, Sun 8am-4pm
